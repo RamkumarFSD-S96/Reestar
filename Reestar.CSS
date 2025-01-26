@@ -1,0 +1,77 @@
+*{
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    padding:0;
+    margin: 0;
+}
+.SectionOne
+{
+    background: lightsalmon;
+    padding-top: 10px;
+    text-align: center;
+    margin-top: 20px;
+    border: solid black 2px;
+   
+}
+.SectionOne__Desc
+{
+    display: inline-block;
+    
+}
+.SectionOne__Desc:hover
+{
+    background-color: rgb(128, 137, 240);
+    text-decoration:underline;
+}
+.ContainerDish
+{
+    text-align: center;
+}
+.SectionTwoD1__img,.SectionThreeD2__img,.SectionFourD3__img,.SectionFiveD4__img
+{
+    height: 300px;
+    width: 200px;
+}
+.SectionTwoD1,.SectionThreeD2,.SectionFourD3,.SectionFiveD4
+{
+    width:200px;
+    background-color: white;
+    color: black;
+    border: solid black 2px;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+}
+.SectionTwoD1__button,.SectionThreeD2__button,.SectionFourD3__button,.SectionFiveD4__button
+{
+    background-color: crimson;
+    color: white;
+    padding: 5px;
+    border: solid black 2px;
+    border-radius:10px;
+}
+.ContainerContact
+{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.Sectionsix__table
+{
+    display: inline-block;
+    padding: 10px;
+}
+
+.Sectionsix__button
+{
+    background: crimson;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
